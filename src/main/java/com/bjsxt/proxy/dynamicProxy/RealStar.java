@@ -1,11 +1,11 @@
-package com.bjsxt.proxy.staticProxy;
+package com.bjsxt.proxy.dynamicProxy;
 
 /**
  * 真实角色(被代理对象)，需要实现抽象角色
  * @author lvyelanshan
  * @create 2019-11-06 21:57
  */
-public class RealStar implements Star{
+public class RealStar implements Star {
 
     public void confer() {
         System.out.println("bookTicket()");

@@ -1,4 +1,4 @@
-package com.bjsxt.proxy.staticProxy;
+package com.bjsxt.proxy.dynamicProxy;
 
 /**
  * 抽象角色
